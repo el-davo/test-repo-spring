@@ -1,0 +1,6 @@
+dependencies:
+  image: maven@latest
+  command:
+    - "mvn"
+    - "clean"
+    - "install"
