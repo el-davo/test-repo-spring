@@ -1,5 +1,5 @@
 dependencies:
-  image: maven@latest
+  image: maven
   command:
     - "mvn"
     - "clean"
