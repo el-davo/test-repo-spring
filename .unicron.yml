@@ -4,3 +4,4 @@ dependencies:
     - "mvn"
     - "clean"
     - "install"
+    - "-DskipTests"
